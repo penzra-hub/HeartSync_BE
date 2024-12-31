@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HeartSync.Domain.IRepository
 {
-	internal class UserRepository
+	internal class IUserRepository
 	{
 	}
 }

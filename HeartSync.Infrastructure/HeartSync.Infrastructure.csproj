@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HeartSync.Application\HeartSync.Application.csproj" />
+    <ProjectReference Include="..\HeartSync.Domain\HeartSync.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

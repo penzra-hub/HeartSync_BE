@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HeartSync.Application.IServices
 {
-	internal interface IEmailService
+	internal interface ITokenService
 	{
 	}
 }
